@@ -13,8 +13,8 @@ I'm a Computer Engineer, Writer, and Musician from Turkey 🇹🇷
 ---
 
 ### 📊 GitHub Stats
-![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omercoskun&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omercoskun&layout=compact&theme=tokyonight)
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerscoskun&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerscoskun&layout=compact&theme=tokyonight)
 
 ---
 
