@@ -19,7 +19,7 @@ I'm a Computer Engineer, Writer, and Musician from Turkey 🇹🇷
 ---
 
 ### 🎵 Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3154n2unpybymulbivvhj6ixt5ii)
 
 ---
 
