@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Liberation Mono',monospace" width="985" height="530" viewBox="0 0 985 530" font-size="15">
+  <style>
+    @font-face {
+      src: local('Consolas'), local('Consolas Bold');
+      font-family: 'ConsolasFallback';
+      font-display: swap;
+      -webkit-size-adjust: 109%;
+      size-adjust: 109%;
+    }
+    .key { fill: #953800; }
+    .value { fill: #0a3069; }
+    .muted { fill: #57606a; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="985" height="530" fill="#ffffff" rx="15"/>
+  <text x="15.00" y="90.51" font-size="4.53" fill="#000000" class="ascii" xml:space="preserve">
+    <tspan x="15.00" y="90.51">                                                         @#</tspan>
+    <tspan x="15.00" y="95.95">                                                          @@</tspan>
+    <tspan x="15.00" y="101.39">                                                                                                       .</tspan>
+    <tspan x="15.00" y="106.83">                                   -              *@*%@:       =%@@@.</tspan>
+    <tspan x="15.00" y="112.27">                                           @*.                           %#=</tspan>
+    <tspan x="15.00" y="117.70">                                       @            ....:::-:....             @@</tspan>
+    <tspan x="15.00" y="123.14">                          :        @                                              @@</tspan>
+    <tspan x="15.00" y="128.58">      .                         @                  -.@@@@* @@@@+.                    @@           :</tspan>
+    <tspan x="15.00" y="134.02">      -                      @                  -@@@@%# -:.@+*=@ =-*-                   @</tspan>
+    <tspan x="15.00" y="139.46">      -                    @                   @@ =  .- :  :      .  @@                   :@</tspan>
+    <tspan x="15.00" y="144.90">      =                  @                    +*%=       .   .- +      -                     @</tspan>
+    <tspan x="15.00" y="150.34">           .           @                     @+ -:                      -                      @     -</tspan>
+    <tspan x="15.00" y="155.77">                     @                      :-             -@           :.-                     @</tspan>
+    <tspan x="15.00" y="161.21">                   @                     ::::        **#@@@@@@@@@%-       :                       @</tspan>
+    <tspan x="15.00" y="166.65">                  @                                %@@@@@@@@@@@@@@@@=                              @     %    .</tspan>
+    <tspan x="15.00" y="172.09">           %     @                     .-++#*     -@@@@@@@@@@@@@@@@@@    .                           %</tspan>
+    <tspan x="15.00" y="177.53">          %    *                                  -@@@@@@@@@@@@@@@@@#                .                @</tspan>
+    <tspan x="15.00" y="182.97">         -    @                              :    @@@+*+#@@@@@@@@@**%-                                 @</tspan>
+    <tspan x="15.00" y="188.41">             @       -                +#*%%%#%   #@+=+   ::-%#   .*= #  ..                              @</tspan>
+    <tspan x="15.00" y="193.85">            -                       @@@@@@@@-.  .%@%=-+%#@#@@@..-    -  @@@@.                            @    .</tspan>
+    <tspan x="15.00" y="199.28">                                     @@@@@@@%*  :*@@@@@@@@@@@@@@%==@@+ @@@@@:                             @</tspan>
+    <tspan x="15.00" y="204.72">           @                         *@@@@@@@ @-:+@@@@@@@@@@@@@@@@@@@+ @@@@@+</tspan>
+    <tspan x="15.00" y="210.16">          %                          -@@@@@@@@@= -@@@@@*@@  -..@%@@@= +@@@@@+                              @</tspan>
+    <tspan x="15.00" y="215.60">                                     :@@@@@@@@@  .*##**@@%=    @@==:. @@@@@@*                               %</tspan>
+    <tspan x="15.00" y="221.04">         @                           =@@@@@@@@@:   =#@@-       . +%. @@@@@@@-                               @</tspan>
+    <tspan x="15.00" y="226.48">                                     -@@@@@@@@@*    .**@@@=---*%@#:  @@@@@@@-                                %</tspan>
+    <tspan x="15.00" y="231.92">        *                            .@@@@@@@@@.     .-#@%*--=+#:   @@@@@@@@-                                @</tspan>
+    <tspan x="15.00" y="237.35">                                     :@@@@@@@@@=.      *%@@@@#@+  *@@@@@@@@@-</tspan>
+    <tspan x="15.00" y="242.79">       :                             -@@@@@@@@@*+                @@@@@@@@@@@-                                 %</tspan>
+    <tspan x="15.00" y="248.23">       #                             -@@@@@@@@@@#-              @@@@@@@@@@@@.                                 *</tspan>
+    <tspan x="15.00" y="253.67">       #                             .@@@@@@@@@@@#-             @@@@@@@@@@@@.                                 *</tspan>
+    <tspan x="15.00" y="259.11">       :                             .@@@@@@@@#+=@#=             +@@@@---###</tspan>
+    <tspan x="15.00" y="264.55">    @@                          * @@@%@@@@@@@@@@*+:.             +@@@@@@@@@@@-                                  @</tspan>
+    <tspan x="15.00" y="269.99">     #                       *@@@@ *@@@@@@@@@@@@@@**=-           @@@@@@@@@@@@@@@@@                              @</tspan>
+    <tspan x="15.00" y="275.42">                           @@@@@@@@@@@@-@@@@@@@@@@@@@=*+-.       #@@@@@@@@@@@@@@@@@@@</tspan>
+    <tspan x="15.00" y="280.86">       =                  @ @@@@@@@*@@@@@@@@@@@@@@@@@@%=##+-.  .-@@@@@@@@@@@@@@@@*@@@@</tspan>
+    <tspan x="15.00" y="286.30">       -                 #@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@=@@@#**#%@@@@@@@@@@@@@@@@@@@@@@                       @</tspan>
+    <tspan x="15.00" y="291.74">       #                 %%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-@@@@@@@@@@@@@@@@@@@@@@*+%@@@@@                      -</tspan>
+    <tspan x="15.00" y="297.18">                        .+#@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@-@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@                     .</tspan>
+    <tspan x="15.00" y="302.62">        -                 =##%@@@@@@#@@@%@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#@@@@@@@.                   *</tspan>
+    <tspan x="15.00" y="308.06">        @                 :-##@#@@@@@@@@@ @=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@%-@@@#@@@+#@                   @</tspan>
+    <tspan x="15.00" y="313.49">         @              @-:=+@@@@@@@@@@@@@ # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@.@@@@@@@@</tspan>
+    <tspan x="15.00" y="318.93">         -                   =@@@@@+@%%.@@@- #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-#*@%@@@@@@@@@                 -</tspan>
+    <tspan x="15.00" y="324.37">          @                .*#%@@@@@@@@@@.  @+*@@@@@@@@@@@@@@@@#%@@%@@@@@@@@@@-@@@@@@@@@@@@@               *</tspan>
+    <tspan x="15.00" y="329.81">                          .+#%##@@@@@@@@:#@@ =-*@@@%@@@@@@@@@@@@*#%*@%#**##%%@- -@@@@@@@@@@@#              =</tspan>
+    <tspan x="15.00" y="335.25">           +                    -%@@@@%@-@@@@@:-%@%%#*+*+#@@@%*@**+=*%#**++-=---#**@@%@@@@@@@             @</tspan>
+    <tspan x="15.00" y="340.69">   .        :                -*%@@@@@@@@@@*@@@@---=-=-=+++#@%:-*#+=-#*-+#*:  . =#%@%@@@@@@@@@%           @       -</tspan>
+    <tspan x="15.00" y="346.13">             @               :@%#%@@@@%@@@@@@@@@  .-=--*#+-+@#::@--=#==%-     : +@@@%@@@@@@@ @          @        =</tspan>
+    <tspan x="15.00" y="351.56">.             @                :=# @@@@@@@@@@@@@@@@@@@@*##=:*@*.=*=@@@@@@@@@@  :*@@@@@@@@@@@%*         %         -</tspan>
+    <tspan x="15.00" y="357.00">               *               . -*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@@*+:       @          -</tspan>
+    <tspan x="15.00" y="362.44">                                  -+##%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#=-.      -           -</tspan>
+    <tspan x="15.00" y="367.88">                  #                :+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+=-:@@@@@@@@@%#*+--:</tspan>
+    <tspan x="15.00" y="373.32">                   @                 -*@@@@@@@@@@@@%###%#%%###*++++===--:: -@@@@@@@%#*+=+===--.   @              :</tspan>
+    <tspan x="15.00" y="378.76">                     %                :+#%%@@@@@%%%@%####*++++===--:     %@@@@@@@%#**++++++=-.. .@               -</tspan>
+    <tspan x="15.00" y="384.20">                                       .-=*+==------=*#**+===--:.     -%@@@@@@%%%**++=-=-:.    @                 .</tspan>
+    <tspan x="15.00" y="389.63">           .            +                ::.      :---:. .          -*%%%#++=--:.            @                   .</tspan>
+    <tspan x="15.00" y="395.07">                :         :#                                       :-----:.                %</tspan>
+    <tspan x="15.00" y="400.51">                             @                                    .::.:.                @+           :</tspan>
+    <tspan x="15.00" y="405.95">                               :@                                                    @@</tspan>
+    <tspan x="15.00" y="411.39">                                   %                                              @@</tspan>
+    <tspan x="15.00" y="416.83">                                      @@                                      #%</tspan>
+    <tspan x="15.00" y="422.27">                                           @=                            *#</tspan>
+    <tspan x="15.00" y="427.70">                                                  - =%-        +.-*%              =</tspan>
+    <tspan x="15.00" y="433.14">                                                                                              -</tspan>
+    <tspan x="15.00" y="438.58">                                                          @@</tspan>
+    <tspan x="15.00" y="444.02">                                                          @@</tspan>
+  </text>
+  <text x="340" y="30" fill="#000000" xml:space="preserve">
+    <tspan x="340" y="30">omer@github ————————————————————————————————————————————————</tspan>
+    <tspan x="340" y="50"><tspan class="muted">. </tspan><tspan class="key">OS</tspan>:<tspan class="muted"> ........................................ </tspan><tspan class="value">Curious Human</tspan></tspan>
+    <tspan x="340" y="70"><tspan class="muted">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="muted"> ........................ </tspan><tspan class="value">1 year, 9 months, 10 days</tspan></tspan>
+    <tspan x="340" y="90"><tspan class="muted">. </tspan><tspan class="key">Host</tspan>:<tspan class="muted"> ............................................ </tspan><tspan class="value">Türkiye</tspan></tspan>
+    <tspan x="340" y="110"><tspan class="muted">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="muted"> ................................ </tspan><tspan class="value">Computer Engineer</tspan></tspan>
+    <tspan x="340" y="130"><tspan class="muted">. </tspan><tspan class="key">Shell</tspan>:<tspan class="muted"> ................................... </tspan><tspan class="value">Writer &amp; Artist</tspan></tspan>
+    <tspan x="340" y="150"><tspan class="muted">. </tspan></tspan>
+    <tspan x="340" y="170"><tspan class="muted">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="muted"> ....... </tspan><tspan class="value">React, Python, .NET, Kotlin</tspan></tspan>
+    <tspan x="340" y="190"><tspan class="muted">. </tspan><tspan class="key">Languages.Web</tspan>:<tspan class="muted"> ................ </tspan><tspan class="value">TypeScript, Astro, FastAPI</tspan></tspan>
+    <tspan x="340" y="210"><tspan class="muted">. </tspan><tspan class="key">Technologies.Line1</tspan>:<tspan class="muted"> . </tspan><tspan class="value">SQL, Docker, Redis, RabbitMQ, Jenkins</tspan></tspan>
+    <tspan x="340" y="230"><tspan class="muted">. </tspan><tspan class="key">Technologies.Line2</tspan>:<tspan class="muted"> ... </tspan><tspan class="value">PostGIS, QGIS, XGBoost, TensorFlow</tspan></tspan>
+    <tspan x="340" y="250"><tspan class="muted">. </tspan></tspan>
+    <tspan x="340" y="270"><tspan class="muted">. </tspan><tspan class="key">Interests.Technical</tspan>:<tspan class="muted"> .. </tspan><tspan class="value">AI, Machine Learning, Mobile &amp; Web</tspan></tspan>
+    <tspan x="340" y="290"><tspan class="muted">. </tspan><tspan class="key">Interests.Creative</tspan>:<tspan class="muted"> .............. </tspan><tspan class="value">Writing, Drawing, Music</tspan></tspan>
+    <tspan x="340" y="310"><tspan class="muted">. </tspan></tspan>
+    <tspan x="340" y="330">- Contact ——————————————————————————————————————————————————</tspan>
+    <tspan x="340" y="350"><tspan class="muted">. </tspan><tspan class="key">Email</tspan>:<tspan class="muted"> .......................... </tspan><tspan class="value">omersaitcoskun@gmail.com</tspan></tspan>
+    <tspan x="340" y="370"><tspan class="muted">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="muted"> ............................... </tspan><tspan class="value">Ömer Sait Coşkun</tspan></tspan>
+    <tspan x="340" y="390"><tspan class="muted">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="muted"> ................................ </tspan><tspan class="value">@omer_s_coskun</tspan></tspan>
+    <tspan x="340" y="410"><tspan class="muted">. </tspan><tspan class="key">Website</tspan>:<tspan class="muted"> .......................... </tspan><tspan class="value">omerscoskun.vercel.app</tspan></tspan>
+    <tspan x="340" y="430"><tspan class="muted">. </tspan></tspan>
+    <tspan x="340" y="450">- GitHub Stats —————————————————————————————————————————————</tspan>
+    <tspan x="340" y="470"><tspan class="muted">. </tspan><tspan class="key">Repos</tspan>:<tspan class="muted"> ................. </tspan><tspan class="value">5</tspan> | <tspan class="key">Stars</tspan>:<tspan class="muted"> .................... </tspan><tspan class="value">3</tspan></tspan>
+    <tspan x="340" y="490"><tspan class="muted">. </tspan><tspan class="key">Followers</tspan>:<tspan class="muted"> ............. </tspan><tspan class="value">6</tspan> | <tspan class="key">Following</tspan>:<tspan class="muted"> ............... </tspan><tspan class="value">10</tspan></tspan>
+    <tspan x="340" y="510"><tspan class="muted">. </tspan><tspan class="key">Updated</tspan>:<tspan class="muted"> ...................................... </tspan><tspan class="value">2026-07-13</tspan></tspan>
+  </text>
+</svg>

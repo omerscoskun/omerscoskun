@@ -1,0 +1,123 @@
+{
+  "_help": [
+    "Kişisel bilgilerin tamamını bu dosyada düzenle.",
+    "rows listesindeki bir nesneyi silerek satırı kaldırabilir, kopyalayarak yeni satır ekleyebilirsin.",
+    "Satır türleri: field, pair, section, contacts ve blank.",
+    "GitHub'dan otomatik gelen değerler: {{github.account_age}}, {{github.public_repos}}, {{github.stars}}, {{github.followers}}, {{github.following}}, {{github.updated}}.",
+    "ASCII boyutunu ascii.scale ile değiştirebilirsin. 1.0 alana tam sığar; 0.9 biraz daha küçük gösterir.",
+    "Değişiklikten sonra python scripts/update_profile.py çalıştırabilir veya dosyayı doğrudan push edip GitHub Actions'ın üretmesini bekleyebilirsin."
+  ],
+  "username": "omerscoskun",
+  "branch": "master",
+  "title": "omer@github",
+  "alt_text": "Ömer Sait Coşkun — GitHub profile",
+  "image_link": "https://github.com/omerscoskun",
+  "ascii_file": "assets/ascii.txt",
+  "ascii": {
+    "auto_fit": true,
+    "trim_empty_margins": true,
+    "scale": 1,
+    "max_font_size": 15,
+    "character_width_ratio": 0.6,
+    "line_height_ratio": 1.2,
+    "right_padding": 15,
+    "vertical_padding": 20
+  },
+  "layout": {
+    "width": 985,
+    "minimum_height": 530,
+    "font_size": 15,
+    "left_x": 15,
+    "right_x": 340,
+    "first_y": 30,
+    "line_height": 20,
+    "bottom_padding": 20,
+    "content_width_chars": 60,
+    "pair_left_width_chars": 28
+  },
+  "themes": [
+    {
+      "name": "dark",
+      "file": "dark_mode.svg",
+      "background": "#161b22",
+      "text": "#ffffff",
+      "key": "#ffa657",
+      "value": "#a5d6ff",
+      "muted": "#616e7f"
+    },
+    {
+      "name": "light",
+      "file": "light_mode.svg",
+      "background": "#ffffff",
+      "text": "#000000",
+      "key": "#953800",
+      "value": "#0a3069",
+      "muted": "#57606a"
+    }
+  ],
+  "contacts": [
+    {
+      "label": "Email",
+      "value": "omersaitcoskun@gmail.com",
+      "url": "mailto:omersaitcoskun@gmail.com",
+      "show_below_card": false
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Ömer Sait Coşkun",
+      "url": "https://www.linkedin.com/in/omer-sait-coskun-2066a9344",
+      "show_below_card": true
+    },
+    {
+      "label": "Instagram",
+      "value": "@omer_s_coskun",
+      "url": "https://instagram.com/omer_s_coskun",
+      "show_below_card": true
+    },
+    {
+      "label": "Website",
+      "value": "omerscoskun.vercel.app",
+      "url": "https://omerscoskun.vercel.app/",
+      "show_below_card": true
+    }
+  ],
+  "rows": [
+    { "type": "field", "label": "OS", "value": "Curious Human" },
+    { "type": "field", "label": "Uptime", "value": "{{github.account_age}}" },
+    { "type": "field", "label": "Host", "value": "Türkiye" },
+    { "type": "field", "label": "Kernel", "value": "Computer Engineer" },
+    { "type": "field", "label": "Shell", "value": "Writer & Artist" },
+    { "type": "blank" },
+
+    { "type": "field", "label": "Languages.Programming", "value": "React, Python, .NET, Kotlin" },
+    { "type": "field", "label": "Languages.Web", "value": "TypeScript, Astro, FastAPI" },
+    { "type": "field", "label": "Technologies.Line1", "value": "SQL, Docker, Redis, RabbitMQ, Jenkins" },
+    { "type": "field", "label": "Technologies.Line2", "value": "PostGIS, QGIS, XGBoost, TensorFlow" },
+    { "type": "blank" },
+
+    { "type": "field", "label": "Interests.Technical", "value": "AI, Machine Learning, Mobile & Web" },
+    { "type": "field", "label": "Interests.Creative", "value": "Writing, Drawing, Music" },
+    { "type": "blank" },
+
+    { "type": "section", "title": "Contact" },
+    { "type": "contacts" },
+    { "type": "blank" },
+
+    { "type": "section", "title": "GitHub Stats" },
+    {
+      "type": "pair",
+      "left_label": "Repos",
+      "left_value": "{{github.public_repos}}",
+      "right_label": "Stars",
+      "right_value": "{{github.stars}}"
+    },
+    {
+      "type": "pair",
+      "left_label": "Followers",
+      "left_value": "{{github.followers}}",
+      "right_label": "Following",
+      "right_value": "{{github.following}}"
+    },
+    { "type": "field", "label": "Updated", "value": "{{github.updated}}" }
+  ]
+}
