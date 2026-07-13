@@ -60,7 +60,7 @@
       "label": "Email",
       "value": "omersaitcoskun@gmail.com",
       "url": "mailto:omersaitcoskun@gmail.com",
-      "show_below_card": false
+      "show_below_card": true
     },
     {
       "label": "LinkedIn",
@@ -82,11 +82,11 @@
     }
   ],
   "rows": [
-    { "type": "field", "label": "OS", "value": "Curious Human" },
+    { "type": "field", "label": "OS", "value": "Win11, Android, IOS, IpadOS, Linux" },
     { "type": "field", "label": "Uptime", "value": "{{github.account_age}}" },
     { "type": "field", "label": "Host", "value": "Türkiye" },
-    { "type": "field", "label": "Kernel", "value": "Computer Engineer" },
-    { "type": "field", "label": "Shell", "value": "Writer & Artist" },
+    { "type": "field", "label": "Kernel", "value": "Computer Engineer - Junior Developer" },
+    { "type": "field", "label": "Shell", "value": "Part-Time Writer & Artist" },
     { "type": "blank" },
 
     { "type": "field", "label": "Languages.Programming", "value": "React, Python, .NET, Kotlin" },

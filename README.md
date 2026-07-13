@@ -9,6 +9,7 @@
 </div>
 
 <p align="center">
+  <a href="mailto:omersaitcoskun@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/omer-sait-coskun-2066a9344">LinkedIn</a> ·
   <a href="https://instagram.com/omer_s_coskun">Instagram</a> ·
   <a href="https://omerscoskun.vercel.app/">Website</a>
